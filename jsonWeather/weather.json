@@ -1,0 +1,67 @@
+{
+  "WeatherData": [
+    {
+      "date": "08-10-2020",
+      "City": [
+        {
+          "name": "Kolkata",
+          "weather": {
+            "temp_max": 33.67,
+            "temp_min": 25.45,
+            "humidity": 77
+          }
+        },
+        {
+          "name": "Mumbai",
+          "weather": {
+            "temp_max": 36.67,
+            "temp_min": 26.45,
+            "humidity": 87
+          }
+        }
+      ]
+    },
+    {
+      "date": "09-10-2020",
+      "City": [
+        {
+          "name": "Kolkata",
+          "weather": {
+            "temp_max": 36.97,
+            "temp_min": 26.45,
+            "humidity": 87
+          }
+        },
+        {
+          "name": "Mumbai",
+          "weather": {
+            "temp_max": 36.67,
+            "temp_min": 26.45,
+            "humidity": 97
+          }
+        }
+      ]
+    },
+    {
+      "date": "10-10-2020",
+      "City": [
+        {
+          "name": "Kolkata",
+          "weather": {
+            "temp_max": 38.57,
+            "temp_min": 28.45,
+            "humidity": 98
+          }
+        },
+        {
+          "name": "Mumbai",
+          "weather": {
+            "temp_max": 34.27,
+            "temp_min": 28.45,
+            "humidity": 76
+          }
+        }
+      ]
+    }
+  ]
+}
